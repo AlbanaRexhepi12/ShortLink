@@ -1,5 +1,11 @@
 ## Getting Started
 
+### Installation
+
+```bash
+npm install
+```
+
 ### Environment Setup
 If you're not developing locally, you'll need to set up a few environment variables for the application to work properly.
 
